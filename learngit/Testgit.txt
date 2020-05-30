@@ -1,2 +1,4 @@
 Git is added foction;
 Test Git
+
+append Test log;
